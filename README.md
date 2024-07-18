@@ -1,6 +1,6 @@
 <h1>Information Security Policy</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>1. Purpose</h2>
 This Information Security Policy outlines the principles and guidelines to ensure the confidentiality, integrity, and availability of the organization's information assets. This policy applies to all employees, contractors, and third-party users.
@@ -61,6 +61,31 @@ All information must be classified into one of the following categories:
 
 - <b>Regular information security training must be provided to all employees and contractors
 - Awareness programs must be conducted to educate users about current security threats and best practices
+
+<h2>11. Compliance and Audit</h2>
+
+- <b> Compliance with this policy must be regularly audited
+- Non-compliance with the policy may result indisciplinary action
+- Regular reviews and updates to the policy must be conducted to ensure its continued relevance
+
+<h2>12. Policy Review</h2>
+
+This policy must be reviewied annually and updated as necessary to reflect changes in legal, regulatory, or organizational requirements.
+
+<h2>13. Approval</h2>
+
+This Information Security Policy is approved by the Executive Management and is effective as of *insert date here*
+
+Executive Management:
+________________________________________
+Information Security Officer:
+________________________________________
+Date:
+________________________________________
+
+
+
+
 <!--
  ```diff
 - text in red
